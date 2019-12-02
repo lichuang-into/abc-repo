@@ -1,6 +1,6 @@
 package config;
 
-public class test {
+public class Test01 {
 
 	public static void main(String[] args) {
 		
